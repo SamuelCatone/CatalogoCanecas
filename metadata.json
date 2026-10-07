@@ -1,0 +1,6 @@
+{
+  "name": "Catálogo de Canecas",
+  "description": "Catálogo minimalista e moderno de canecas personalizadas com fotos de alta qualidade, controle de estoque e pedidos diretos via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
